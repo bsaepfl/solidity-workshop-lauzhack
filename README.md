@@ -1,4 +1,4 @@
-# LauzHack x BSA: Introduction to Solidity
+# LauzHack x BSA: Introduction to Solidity ([SLIDES](https://docs.google.com/presentation/d/1NSuVj4s_uiKd0U7mTR0k5LMHwMdi-t2T/edit?usp=drive_link&ouid=115816041756434628590&rtpof=true&sd=true), [RECORDING](https://drive.google.com/file/d/1kUE3a0MI322C1XRTDWAy_4MJ_qgTOJIx/view?usp=drive_link))
 
 The following repo contains the code written during the workshop held by the [Blockchain Student Association](https://bsaepfl.ch) in collaboration with Lauzhack.
 
